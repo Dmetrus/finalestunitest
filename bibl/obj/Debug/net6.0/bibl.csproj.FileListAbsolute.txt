@@ -1,0 +1,44 @@
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\bibl.deps.json
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\bibl.dll
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\bibl.pdb
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\US-5A-Net.exe
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\US-5A-Net.pdb
+C:\Users\tuzka\source\repos\unitest\bibl\bin\Debug\net6.0\US-5A-Net.exe.config
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.csproj.AssemblyReference.cache
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.AssemblyInfoInputs.cache
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.AssemblyInfo.cs
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.csproj.CoreCompileInputs.cache
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.csproj.CopyComplete
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.dll
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\refint\bibl.dll
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\bibl.pdb
+C:\Users\tuzka\source\repos\unitest\bibl\obj\Debug\net6.0\ref\bibl.dll
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\bibl.deps.json
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\bibl.dll
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\bibl.pdb
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\US-5A-Net.exe
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\US-5A-Net.pdb
+C:\Users\tuzka\source\repos\unitest2\bibl\bin\Debug\net6.0\US-5A-Net.exe.config
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.csproj.AssemblyReference.cache
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.AssemblyInfoInputs.cache
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.AssemblyInfo.cs
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.csproj.CoreCompileInputs.cache
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.csproj.CopyComplete
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.dll
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\refint\bibl.dll
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\bibl.pdb
+C:\Users\tuzka\source\repos\unitest2\bibl\obj\Debug\net6.0\ref\bibl.dll
+D:\Перенос на другой ПК\final\bibl\bin\Debug\net6.0\bibl.deps.json
+D:\Перенос на другой ПК\final\bibl\bin\Debug\net6.0\bibl.dll
+D:\Перенос на другой ПК\final\bibl\bin\Debug\net6.0\bibl.pdb
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.csproj.AssemblyReference.cache
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.AssemblyInfoInputs.cache
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.AssemblyInfo.cs
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.csproj.CoreCompileInputs.cache
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.dll
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\refint\bibl.dll
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\bibl.pdb
+D:\Перенос на другой ПК\final\bibl\obj\Debug\net6.0\ref\bibl.dll
